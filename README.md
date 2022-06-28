@@ -1,410 +1,59 @@
-Contribution: 2018-12-01 20:00
-
-Contribution: 2018-12-01 20:01
-
-Contribution: 2018-12-01 20:02
-
-Contribution: 2018-12-01 20:03
-
-Contribution: 2018-12-01 20:04
-
-Contribution: 2018-12-01 20:05
-
-Contribution: 2018-12-01 20:06
-
-Contribution: 2018-12-01 20:07
-
-Contribution: 2018-12-02 20:00
-
-Contribution: 2018-12-02 20:01
-
-Contribution: 2018-12-02 20:02
-
-Contribution: 2018-12-02 20:03
-
-Contribution: 2018-12-02 20:04
-
-Contribution: 2018-12-15 20:00
-
-Contribution: 2018-12-15 20:01
-
-Contribution: 2018-12-15 20:02
-
-Contribution: 2018-12-26 20:00
-
-Contribution: 2018-12-26 20:01
-
-Contribution: 2018-12-26 20:02
-
-Contribution: 2018-12-26 20:03
-
-Contribution: 2018-12-28 20:00
-
-Contribution: 2018-12-28 20:01
-
-Contribution: 2018-12-30 20:00
-
-Contribution: 2018-12-30 20:01
-
-Contribution: 2018-12-30 20:02
-
-Contribution: 2018-12-30 20:03
-
-Contribution: 2018-12-30 20:04
-
-Contribution: 2018-12-30 20:05
-
-Contribution: 2018-12-30 20:06
-
-Contribution: 2019-01-05 20:00
-
-Contribution: 2019-01-05 20:01
-
-Contribution: 2019-01-05 20:02
-
-Contribution: 2019-01-05 20:03
-
-Contribution: 2019-01-10 20:00
-
-Contribution: 2019-01-10 20:01
-
-Contribution: 2019-01-13 20:00
-
-Contribution: 2019-01-13 20:01
-
-Contribution: 2019-01-13 20:02
-
-Contribution: 2019-01-13 20:03
-
-Contribution: 2019-01-13 20:04
-
-Contribution: 2019-01-17 20:00
-
-Contribution: 2019-01-17 20:01
-
-Contribution: 2019-01-17 20:02
-
-Contribution: 2019-01-18 20:00
-
-Contribution: 2019-01-18 20:01
-
-Contribution: 2019-01-18 20:02
-
-Contribution: 2019-01-18 20:03
-
-Contribution: 2019-01-18 20:04
-
-Contribution: 2019-01-18 20:05
-
-Contribution: 2019-01-21 20:00
-
-Contribution: 2019-01-21 20:01
-
-Contribution: 2019-01-21 20:02
-
-Contribution: 2019-01-21 20:03
-
-Contribution: 2019-01-21 20:04
-
-Contribution: 2019-01-26 20:00
-
-Contribution: 2019-01-26 20:01
-
-Contribution: 2019-01-26 20:02
-
-Contribution: 2019-01-31 20:00
-
-Contribution: 2019-01-31 20:01
-
-Contribution: 2019-02-01 20:00
-
-Contribution: 2019-02-01 20:01
-
-Contribution: 2019-02-01 20:02
-
-Contribution: 2019-02-02 20:00
-
-Contribution: 2019-02-02 20:01
-
-Contribution: 2019-02-05 20:00
-
-Contribution: 2019-02-05 20:01
-
-Contribution: 2019-02-05 20:02
-
-Contribution: 2019-02-05 20:03
-
-Contribution: 2019-02-05 20:04
-
-Contribution: 2019-02-05 20:05
-
-Contribution: 2019-02-05 20:06
-
-Contribution: 2019-02-16 20:00
-
-Contribution: 2019-02-16 20:01
-
-Contribution: 2019-02-16 20:02
-
-Contribution: 2019-02-16 20:03
-
-Contribution: 2019-02-16 20:04
-
-Contribution: 2019-02-16 20:05
-
-Contribution: 2019-02-16 20:06
-
-Contribution: 2019-02-16 20:07
-
-Contribution: 2019-02-16 20:08
-
-Contribution: 2019-02-18 20:00
-
-Contribution: 2019-02-18 20:01
-
-Contribution: 2019-02-18 20:02
-
-Contribution: 2019-02-18 20:03
-
-Contribution: 2019-02-18 20:04
-
-Contribution: 2019-02-18 20:05
-
-Contribution: 2019-02-24 20:00
-
-Contribution: 2019-02-24 20:01
-
-Contribution: 2019-02-24 20:02
-
-Contribution: 2019-02-24 20:03
-
-Contribution: 2019-02-27 20:00
-
-Contribution: 2019-02-27 20:01
-
-Contribution: 2019-02-27 20:02
-
-Contribution: 2019-02-27 20:03
-
-Contribution: 2019-02-27 20:04
-
-Contribution: 2019-02-27 20:05
-
-Contribution: 2019-02-28 20:00
-
-Contribution: 2019-02-28 20:01
-
-Contribution: 2019-02-28 20:02
-
-Contribution: 2019-03-02 20:00
-
-Contribution: 2019-03-02 20:01
-
-Contribution: 2019-03-02 20:02
-
-Contribution: 2019-03-02 20:03
-
-Contribution: 2019-03-03 20:00
-
-Contribution: 2019-03-03 20:01
-
-Contribution: 2019-03-03 20:02
-
-Contribution: 2019-03-03 20:03
-
-Contribution: 2019-03-03 20:04
-
-Contribution: 2019-03-03 20:05
-
-Contribution: 2019-03-03 20:06
-
-Contribution: 2019-03-03 20:07
-
-Contribution: 2019-03-04 20:00
-
-Contribution: 2019-03-04 20:01
-
-Contribution: 2019-03-04 20:02
-
-Contribution: 2019-03-09 20:00
-
-Contribution: 2019-03-09 20:01
-
-Contribution: 2019-03-09 20:02
-
-Contribution: 2019-03-09 20:03
-
-Contribution: 2019-03-09 20:04
-
-Contribution: 2019-03-09 20:05
-
-Contribution: 2019-03-09 20:06
-
-Contribution: 2019-03-09 20:07
-
-Contribution: 2019-03-11 20:00
-
-Contribution: 2019-03-11 20:01
-
-Contribution: 2019-03-11 20:02
-
-Contribution: 2019-03-11 20:03
-
-Contribution: 2019-03-11 20:04
-
-Contribution: 2019-03-11 20:05
-
-Contribution: 2019-03-11 20:06
-
-Contribution: 2019-03-12 20:00
-
-Contribution: 2019-03-12 20:01
-
-Contribution: 2019-03-12 20:02
-
-Contribution: 2019-03-12 20:03
-
-Contribution: 2019-03-12 20:04
-
-Contribution: 2019-03-13 20:00
-
-Contribution: 2019-03-14 20:00
-
-Contribution: 2019-03-14 20:01
-
-Contribution: 2019-03-14 20:02
-
-Contribution: 2019-03-14 20:03
-
-Contribution: 2019-03-14 20:04
-
-Contribution: 2019-03-14 20:05
-
-Contribution: 2019-03-23 20:00
-
-Contribution: 2019-03-23 20:01
-
-Contribution: 2019-03-23 20:02
-
-Contribution: 2019-03-23 20:03
-
-Contribution: 2019-03-23 20:04
-
-Contribution: 2019-03-23 20:05
-
-Contribution: 2019-03-25 20:00
-
-Contribution: 2019-03-25 20:01
-
-Contribution: 2019-03-25 20:02
-
-Contribution: 2019-03-25 20:03
-
-Contribution: 2019-03-25 20:04
-
-Contribution: 2019-03-25 20:05
-
-Contribution: 2019-03-25 20:06
-
-Contribution: 2019-03-25 20:07
-
-Contribution: 2019-03-25 20:08
-
-Contribution: 2019-03-28 20:00
-
-Contribution: 2019-03-30 20:00
-
-Contribution: 2019-03-30 20:01
-
-Contribution: 2019-03-30 20:02
-
-Contribution: 2019-04-04 20:00
-
-Contribution: 2019-04-04 20:01
-
-Contribution: 2019-04-04 20:02
-
-Contribution: 2019-04-08 20:00
-
-Contribution: 2019-04-08 20:01
-
-Contribution: 2019-04-08 20:02
-
-Contribution: 2019-04-08 20:03
-
-Contribution: 2019-04-08 20:04
-
-Contribution: 2019-04-08 20:05
-
-Contribution: 2019-04-08 20:06
-
-Contribution: 2019-04-08 20:07
-
-Contribution: 2019-04-08 20:08
-
-Contribution: 2019-04-11 20:00
-
-Contribution: 2019-04-11 20:01
-
-Contribution: 2019-04-11 20:02
-
-Contribution: 2019-04-11 20:03
-
-Contribution: 2019-04-15 20:00
-
-Contribution: 2019-04-15 20:01
-
-Contribution: 2019-04-15 20:02
-
-Contribution: 2019-04-15 20:03
-
-Contribution: 2019-04-15 20:04
-
-Contribution: 2019-04-15 20:05
-
-Contribution: 2019-04-15 20:06
-
-Contribution: 2019-04-15 20:07
-
-Contribution: 2019-04-15 20:08
-
-Contribution: 2019-04-16 20:00
-
-Contribution: 2019-04-16 20:01
-
-Contribution: 2019-04-16 20:02
-
-Contribution: 2019-04-16 20:03
-
-Contribution: 2019-04-16 20:04
-
-Contribution: 2019-04-16 20:05
-
-Contribution: 2019-04-16 20:06
-
-Contribution: 2019-04-16 20:07
-
-Contribution: 2019-04-19 20:00
-
-Contribution: 2019-04-19 20:01
-
-Contribution: 2019-04-19 20:02
-
-Contribution: 2019-04-23 20:00
-
-Contribution: 2019-04-23 20:01
-
-Contribution: 2019-04-23 20:02
-
-Contribution: 2019-04-23 20:03
-
-Contribution: 2019-04-23 20:04
-
-Contribution: 2019-04-23 20:05
-
-Contribution: 2019-04-23 20:06
-
-Contribution: 2019-04-23 20:07
-
-Contribution: 2019-04-24 20:00
-
+<img src="https://raw.githubusercontent.com/axuno/Volleyball-League/master/logo-volleyball-league.png" width="100" alt="Logo">
+
+# Volleyball League
+
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/axuno/volleyball-league?include_prereleases)  [![build](https://github.com/axuno/Volleyball-League/workflows/build/badge.svg)](https://github.com/axuno/Volleyball-League/actions?query=workflow%3Abuild)  ![GitHub](https://img.shields.io/github/license/axuno/volleyball-league)
+
+## What is it?
+Volleyball League is a platform that brings everything necessary to organize and to run a league.
+This is the 4th generation of the software developed over the last 20 years and a complete re-write.
+
+## Features
+
+ * Indoor and beach leagues
+ * Registration of teams
+ * Team contacts and players
+ * User administration and authorization
+ * Fixtures incl. calendar export
+ * Fixture changes, entry of results
+ * Match report sheets
+ * Result lists and tables
+ * Automatic notifications and reminders
+ * Shared use of venues
+ * Referees
+ * Local accounts and most popular social logins implemented
+
+## Software design
+
+ * Individual settings (e.g. number of records, number of rounds, etc.)
+ * Individual pages, e.g. for the game rules
+ * Optimized for mobile devices: Comfortable operation on smartphones, tablets or desktop PCs
+ * Localizable for language, region and time zone (currently with translations to English and German)
+ 
+ ## Technology
+ 
+  * ASP.NET Core 3.1 web-development framework
+  * C# programming language
+  * Microsoft SQL-Server 2016+ database is currently implemented. [See supported databases](https://www.llblgen.com/Pages/specifications.aspx)
+  * Bootstrap 4 and jQuery as the HTML, CSS, and JavaScript frameworks
+
+## License
+
+The platform software is Open Source under the [MIT license](LICENSE)
+
+## Live website
+  
+  There is a [live website](https://volleyball-liga.de/) running the platform software.
+  
+## Demo website
+  
+  Admin login when using the demo databases:
+  * User:     demo
+  * Password: demodemo
+  
+## Thanks!
+
+We would like to thank [JetBrains](https://www.jetbrains.com/?from=Volleyball-League) for supporting the project with free licenses of their fantastic tools ReSharper and DotCover.
+
+<img src="https://raw.githubusercontent.com/axuno/Volleyball-League/main/jetbrains.svg" alt="JetBrains" width="100" />
+  

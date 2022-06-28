@@ -1,0 +1,39 @@
+﻿@using League.Helpers
+@using League.TagHelpers
+@using Microsoft.AspNetCore.Mvc.Localization
+@using TournamentManager.MultiTenancy
+@inject IViewLocalizer Localizer
+@inject TenantStore TenantStore
+@{
+    ViewData.Title(Localizer["Leagues"].Value);
+    ViewData.Description(Localizer["Leagues using volleyball-liga.de"].Value);
+    var tenants = TenantStore.GetTenants().Values
+        .Where(tc => !string.IsNullOrEmpty(tc.Identifier) && !tc.SiteContext.HideInMenu && !tc.IsDefault)
+        .ToList();
+}
+<div>
+    <h2 class="h2 d-inline-block">@ViewData.Title()</h2>
+    <h4 class="h4 d-inline-block">@Localizer["using volleyball-liga.de"]</h4>
+    <hr />
+</div>
+<div class="mb-0 pb-1">
+        @foreach (var tenant in tenants)
+        {
+            <div class="mb-4 p-2 border border-dark rounded league-entry">
+                <environment include="Production">
+                    <h4 class="h4"><a href="@tenant.OrganizationContext.HomepageUrl">@Html.Raw(tenant.OrganizationContext.Name)</a></h4>
+                </environment>
+                <environment include="Development">
+                    <h4 class="h4"><a href="/@(tenant.SiteContext.UrlSegmentValue)" class="link">@Html.Raw(tenant.OrganizationContext.Name)</a></h4>
+                </environment>               
+                <div>@Html.Raw(tenant.OrganizationContext.Description)</div>
+            </div>
+        }
+</div>
+@section styles {
+    <style type="text/css">
+        .league-entry {
+            background: linear-gradient(to right, #c7ffc7 5%, #ffffff 100%);
+        }
+    </style>
+}
