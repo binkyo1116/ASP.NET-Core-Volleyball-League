@@ -66,37 +66,6 @@ namespace Axuno.Tools.GeoSpatial
         }
 
         /// <summary>
-        /// Creates a new Latitude from an angle in degrees, minutes and seconds.
-        /// </summary>
-        /// <param name="degrees">The amount of degrees.</param>
-        /// <param name="minutes">The amount of minutes.</param>
-        /// <param name="seconds">The amount of seconds.</param>
-        /// <returns>A new Latitude representing the specified value.</returns>
-        /// <exception cref="ArgumentOutOfRangeException">
-        /// The specified angle (degrees + minutes + seconds) is greater than
-        /// 90 or less than -90.
-        /// </exception>
-        public new static Latitude FromDegrees(double degrees, double minutes, double seconds)
-        {
-            var angle = Angle.FromDegrees(degrees, minutes, seconds);
-            ValidateRange("angle", angle.TotalDegrees, -90, 90);
-
-            return new Latitude(angle.Radians);
-        }
-
-        /// <summary>Creates a new Latitude from an amount in radians.</summary>
-        /// <param name="radians">The angle of the latitude in radians.</param>
-        /// <returns>A new Latitude representing the specified value.</returns>
-        /// <exception cref="ArgumentOutOfRangeException">
-        /// radians is greater than PI/2 or less than -PI/2.
-        /// </exception>
-        public new static Latitude FromRadians(double radians)
-        {
-            ValidateRange("radians", radians, -Math.PI / 2.0, Math.PI / 2.0);
-            return new Latitude(radians);
-        }
-
-        /// <summary>
         /// Formats the value of the current instance using the specified format.
         /// </summary>
         /// <param name="format">
@@ -139,5 +108,38 @@ namespace Axuno.Tools.GeoSpatial
             }
             return formatted + " " + Direction;
         }
+
+        /// <summary>
+        /// Creates a new Latitude from an angle in degrees, minutes and seconds.
+        /// </summary>
+        /// <param name="degrees">The amount of degrees.</param>
+        /// <param name="minutes">The amount of minutes.</param>
+        /// <param name="seconds">The amount of seconds.</param>
+        /// <returns>A new Latitude representing the specified value.</returns>
+        /// <exception cref="ArgumentOutOfRangeException">
+        /// The specified angle (degrees + minutes + seconds) is greater than
+        /// 90 or less than -90.
+        /// </exception>
+        public new static Latitude FromDegrees(double degrees, double minutes, double seconds)
+        {
+            var angle = Angle.FromDegrees(degrees, minutes, seconds);
+            ValidateRange("angle", angle.TotalDegrees, -90, 90);
+
+            return new Latitude(angle.Radians);
+        }
+
+        /// <summary>Creates a new Latitude from an amount in radians.</summary>
+        /// <param name="radians">The angle of the latitude in radians.</param>
+        /// <returns>A new Latitude representing the specified value.</returns>
+        /// <exception cref="ArgumentOutOfRangeException">
+        /// radians is greater than PI/2 or less than -PI/2.
+        /// </exception>
+        public new static Latitude FromRadians(double radians)
+        {
+            ValidateRange("radians", radians, -Math.PI / 2.0, Math.PI / 2.0);
+            return new Latitude(radians);
+        }
+
+        
     }
 }
